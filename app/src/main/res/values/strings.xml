@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="welcome_msg">We will send an SMS with a confirmation code to this number</string>
+    <string name="next">NEXT</string>
+    <string name="activation_msg">We have sent an SMS with an activation code to:</string>
+    <string name="otp">Please enter activation code manually</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="done">VERIFY</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="m_r_p">M.R.P</string>
+    <string name="product_discount">Product Discount</string>
+    <string name="delivery_charges">Delivery Charges</string>
+    <string name="login_to_checkout">Login to checkout</string>
+    <string name="checkout">Checkout</string>
+    <string name="full_name">Full name</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="pin_code">PIN code</string>
+    <string name="flat_house_no_building_company_apartment">Flat, House no., Building, Apartment</string>
+    <string name="landmark_e_g_near_apollo_hospital">Landmark e.g. near Apollo Hospital</string>
+    <string name="state">State</string>
+    <string name="city_town">City/ Town</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="save_address">Save Address</string>
+    <string name="proceed_to_buy">Proceed to buy</string>
+    <string name="no_items_in_cart">No items in cart</string>
+</resources>
